@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update node_type="sys_grid_canvas" unload_date="2018-08-21 12:18:34">
+    <sys_grid_canvas action="INSERT_OR_UPDATE">
+        <legacy_page display_value="PA New Tab 2">acd0c0824f331300c9a84bff9310c79f</legacy_page>
+        <name>PA New Tab 2</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-09 13:31:54</sys_created_on>
+        <sys_id>24d0c0824f331300c9a84bff9310c7a0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA New Tab 2</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_grid_canvas_24d0c0824f331300c9a84bff9310c7a0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-09 13:31:54</sys_updated_on>
+        <related_items_node>
+            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                <grid_canvas display_value="PA New Tab 2">24d0c0824f331300c9a84bff9310c7a0</grid_canvas>
+                <height>26</height>
+                <portal_widget display_value="Created 2018-08-09 06:33:25">c32184424f331300c9a84bff9310c754</portal_widget>
+                <posx>0</posx>
+                <posy>0</posy>
+                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                <sys_created_by>admin</sys_created_by>
+                <sys_created_on>2018-08-09 13:33:25</sys_created_on>
+                <sys_id>8f2184424f331300c9a84bff9310c755</sys_id>
+                <sys_mod_count>16</sys_mod_count>
+                <sys_name>24d0c0824f331300c9a84bff9310c7a0</sys_name>
+                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                <sys_policy/>
+                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                <sys_update_name>sys_grid_canvas_pane_8f2184424f331300c9a84bff9310c755</sys_update_name>
+                <sys_updated_by>admin</sys_updated_by>
+                <sys_updated_on>2018-08-09 13:34:36</sys_updated_on>
+                <width>12</width>
+                <related_items_node>
+                    <sys_portal action="INSERT_OR_UPDATE">
+                        <dropzone/>
+                        <offset/>
+                        <page display_value="PA New Tab 2">acd0c0824f331300c9a84bff9310c79f</page>
+                        <summary>World Clocks</summary>
+                        <sys_created_by>admin</sys_created_by>
+                        <sys_created_on>2018-08-09 13:33:25</sys_created_on>
+                        <sys_id>c32184424f331300c9a84bff9310c754</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>admin</sys_updated_by>
+                        <sys_updated_on>2018-08-09 13:33:25</sys_updated_on>
+                        <related_items_node>
+                            <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+                                <grid_canvas display_value="PA New Tab 2">24d0c0824f331300c9a84bff9310c7a0</grid_canvas>
+                                <height>26</height>
+                                <portal_widget display_value="Created 2018-08-09 06:33:25">c32184424f331300c9a84bff9310c754</portal_widget>
+                                <posx>0</posx>
+                                <posy>0</posy>
+                                <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-08-09 13:33:25</sys_created_on>
+                                <sys_id>8f2184424f331300c9a84bff9310c755</sys_id>
+                                <sys_mod_count>16</sys_mod_count>
+                                <sys_name>24d0c0824f331300c9a84bff9310c7a0</sys_name>
+                                <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+                                <sys_policy/>
+                                <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+                                <sys_update_name>sys_grid_canvas_pane_8f2184424f331300c9a84bff9310c755</sys_update_name>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-08-09 13:34:36</sys_updated_on>
+                                <width>12</width>
+                            </sys_grid_canvas_pane>
+                        </related_items_node>
+                        <related_items_node>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title</name>
+                                <portal_section display_value="Created 2018-08-09 06:33:25">c32184424f331300c9a84bff9310c754</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-08-09 13:33:25</sys_created_on>
+                                <sys_id>032184424f331300c9a84bff9310c755</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-08-09 13:33:25</sys_updated_on>
+                                <value>World Clocks</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>name</name>
+                                <portal_section display_value="Created 2018-08-09 06:33:25">c32184424f331300c9a84bff9310c754</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-08-09 13:33:25</sys_created_on>
+                                <sys_id>4f2184424f331300c9a84bff9310c754</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-08-09 13:33:25</sys_updated_on>
+                                <value>example_cool_clock</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer_id</name>
+                                <portal_section display_value="Created 2018-08-09 06:33:25">c32184424f331300c9a84bff9310c754</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-08-09 13:33:25</sys_created_on>
+                                <sys_id>8b2184424f331300c9a84bff9310c754</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-08-09 13:33:25</sys_updated_on>
+                                <value>7c3525050a0a0ab8000968f6d8c87ea0</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>renderer</name>
+                                <portal_section display_value="Created 2018-08-09 06:33:25">c32184424f331300c9a84bff9310c754</portal_section>
+                                <sys_created_by>admin</sys_created_by>
+                                <sys_created_on>2018-08-09 13:33:25</sys_created_on>
+                                <sys_id>c72184424f331300c9a84bff9310c754</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>admin</sys_updated_by>
+                                <sys_updated_on>2018-08-09 13:33:25</sys_updated_on>
+                                <value>com.glide.ui.portal.RenderJavascript</value>
+                            </sys_portal_preferences>
+                        </related_items_node>
+                    </sys_portal>
+                </related_items_node>
+            </sys_grid_canvas_pane>
+        </related_items_node>
+    </sys_grid_canvas>
+</record_update>
